@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SpeedometrView">
+        <attr name="maxSpeed" format="integer"/>
+        <attr name="speed" format="integer"/>
+        <attr name="textStep" format="integer"/>
+        <attr name="fillColor" format="color"/>
+        <attr name="fillSpeedColor" format="color"/>
+        <attr name="scaleColor" format="color"/>
+        <attr name="textScaleColor" format="color"/>
+        <attr name="textSpeedColor" format="color"/>
+        <attr name="pointerArrowColor" format="color"/>
+        <attr name="hingeArrowColor" format="color"/>
+    </declare-styleable>
+
+</resources>
+
